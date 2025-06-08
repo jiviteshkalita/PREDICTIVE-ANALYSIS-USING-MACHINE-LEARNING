@@ -75,3 +75,5 @@ Marketing Optimization: Helps allocate resources effectively by targeting likely
 
 Churn Analytics Tools: Forms the backend of dashboards or APIs that enable real-time churn prediction.
 
+Output : ![Image](https://github.com/user-att)achments/assets/f99c4992-c05d-4b5c-8844-60d53f412494
+
